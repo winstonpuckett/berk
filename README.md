@@ -44,6 +44,18 @@ Berk was supposed to be named Brick, but his father was drunk when he signed Ber
 
 Berk can bi-directionally, telepathically communicate with anyone currently eating one of the donuts he creates. 
 
+## Rules
+
+- Berk **will** hear the thoughts of anyone eating one of his donuts.
+- Most targets will not be aware of Berk's presence in their brains
+- Berk can only hear thoughts in real-time
+- Berk cannot imbue messages onto donuts
+
+## Success / Failure 
+
+- Success looks like the right person, at the right time, thinking the right stuff eating the donut.
+- Failure looks like one or more of these things not working out. Perhaps the wrong person picks up the donut, maybe the person isn't thinking about what you're hoping for, maybe all Berk can hear is chewing.
+
 # Projects
 
 ## "Reunite"
